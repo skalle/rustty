@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 ferris-says = "0.2.0"
 crossterm = "0.18"
+nix = "0.18"
